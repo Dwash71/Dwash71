@@ -2,7 +2,7 @@
 
 **`Web Developer (Frontend/Backend)`**
 
-I'm a indie full-stack developer building my version of the digital world one step at a time. All coding projects are built from the ground up.
+I'm a indie full-stack developer building my version of the digital world one step at a time. All coding projects are built from the ground up. I am eager to tackle whatever web development challenges that I may run into in order to achieve my goal of becoming the best Web Dev I can be. Developing a great user experience drives me to get better everyday.
 
 <!-- Badges with custom icons - https://github.com/Dwash71/custom-icon-badges -->
 <!-- View counter - https://github.com/Dwash71/Simple-View-Counter -->
