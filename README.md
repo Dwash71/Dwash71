@@ -1,4 +1,6 @@
-# <img  src="https://img.icons8.com/emoji/35/null/man-with-mustache-medium-dark-skin-tone.png"/> Derrick Washington
+<img align="center" alt="banner" width="95%" height="490px" style="padding-right:5px;" src="https://github.com/Dwash71/Dwash71/blob/main/logo2.jpg?raw=true?raw=true"/>
+
+# Derrick Washington
 
 **`Web Developer (Frontend/Backend)`**
 
