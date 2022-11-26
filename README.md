@@ -1,4 +1,4 @@
-<img align="center" alt="banner" width="95%" height="490px" style="padding-right:5px;" src="https://github.com/Dwash71/Dwash71/blob/main/logo2.jpg?raw=true?raw=true"/>
+<img align="center" alt="banner" width="100%" height="340px" style="padding-right:5px;" src="https://github.com/Dwash71/Dwash71/blob/main/logo2.jpg?raw=true?raw=true"/>
 
 # Derrick Washington
 
