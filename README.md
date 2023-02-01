@@ -9,9 +9,9 @@ I'm a indie full-stack developer building my version of the digital world one st
 <!-- Badges with custom icons - https://github.com/Dwash71/custom-icon-badges -->
 <!-- View counter - https://github.com/Dwash71/Simple-View-Counter -->
 <p align="center">
-  <a href="https://www.youtube.com/c/RU2KSXslI3zJD1XyY9p74A?sub_confirmation=1">
+  <a href="https://www.youtube.com/c/DGenesis.dev1?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCRU2KSXslI3zJD1XyY9p74A?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://www.youtube.com/c/DGenesis.dev1">
+  <a href="https://www.youtube.com/channel/UCRU2KSXslI3zJD1XyY9p74A">
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCRU2KSXslI3zJD1XyY9p74A?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
   <a href="https://github.com/Dwash71?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Dwash71?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
